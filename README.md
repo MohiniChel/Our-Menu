@@ -3,16 +3,16 @@
 Functionalities:-
 
 1. Have a list of food items with the following details 
-* Bulet list Name
-3. *Price
-4. *Details
-5. *Image
+ * Bullet list Name
+ * Price
+ * Details
+ * Image
  
 2. Can toggle between the menu list
-3. *All
-4. *Lunch
-5. *Breakfast
-6. *Shakes
+ * All
+ * Lunch
+ * Breakfast
+ * Shakes
   
 #### Used Technologies : Reactjs, React Hook.
 
