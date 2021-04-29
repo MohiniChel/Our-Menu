@@ -3,7 +3,7 @@
 Functionalities:-
 
 1. Have a list of food items with the following details 
-2. *Name
+* Bulet list Name
 3. *Price
 4. *Details
 5. *Image
