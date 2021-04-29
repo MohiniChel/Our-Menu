@@ -15,3 +15,6 @@ Functionalities:-
 6. *Shakes
   
 #### Used Technologies : Reactjs, React Hook.
+
+![menu](https://user-images.githubusercontent.com/83206716/116574921-d0ff1d00-a92b-11eb-9826-a37562cadf71.png)
+
