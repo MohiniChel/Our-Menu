@@ -1,4 +1,4 @@
-# OUR_MENU.
+# OUR_MENU
 
 Functionalities:-
 
